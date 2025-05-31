@@ -1,9 +1,8 @@
-<img align="center" src="Img/RedTiger-Banner.png" width="100%"> 
 
 <h1 align="center">Multi-Tools</h1>
 
 <p align="center">
-   <a href="https://t.me/redtigersupport">Telegram</a> ・ <a href="https://redtiger.shop">Website</a> ・ <a href="https://www.trustpilot.com/review/redtiger.shop">Reviews</a>
+   <a href="https://t.me/redtigersupport">Telegram</a> ・ <a href="discord.gg/PAFb8B9KPp">Website</a> ・ <a href="https://www.trustpilot.com/review/redtiger.shop">Reviews</a>
 </p>
 
 <p align="center">
@@ -28,19 +27,13 @@
 
 <h1 align="center">Tools</h1>
 
-<p align="center">
-  <img src="Img/RedTiger.png" width="49%"> 
-  <img src="Img/RedTiger-2.png" width="49%"> 
-  <img src="Img/RedTiger-3.png" width="49%"> 
-  <img src="Img/Builder.png" width="49%">
-  <br><br>
-</p>
+
 
 <h1 align="center">Features</h1>
 <p>
    
 ```
-┌── ⚒️ - RedTiger-Tools
+┌── ⚒️ - AZUNA MULTITOOLS
 │   ├── Info
 │   └── Site
 │
@@ -174,7 +167,7 @@
 
 <h1 align="center">Installation</h1>
 
-<a href="https://github.com/loxy0dev/RedTiger-Tools/archive/refs/tags/v6.5.zip">Dowloads "RedTiger-Tools.zip" Here</a>
+<a href="https://github.com/ZERO-ONZE/multitools/archive/refs/tags/v6.5.zip">Dowloads "Azuna multitools.zip" Here</a>
 
 <p>
   
@@ -186,8 +179,8 @@
 Or
 ```
 1 - Open a terminal.
-2 - Write "git clone https://github.com/loxy0dev/RedTiger-Tools.git"
-3 - Write "cd RedTiger-Tools"
+2 - Write "git clone https://github.com/ZERO-ONZE/multitools.git"
+3 - Write "cd multitools"
 4 - Write "git pull"
 5 - Write "python Setup.py"
 ```
@@ -201,7 +194,7 @@ Or
   - RedTiger Tools has been developed solely for educational purposes.<br>
   - This project has been created with good intentions and is intended for personal use only.<br>
   - By choosing to use RedTiger, you acknowledge and accept full responsibility for any consequences that may result from your actions.<br>
-  - All scripts in the "<a href="https://github.com/loxy0dev/RedTiger-Tools/tree/main/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
+  - All scripts in the "<a href="https://github.com/ZERO-ONZE/multitools/tree/main/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
 <br><br>
 </p>
 
