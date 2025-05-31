@@ -2,7 +2,7 @@
 <h1 align="center">Multi-Tools</h1>
 
 <p align="center">
- <a href="discord.gg/PAFb8B9KPp">Website</a>・>Reviews</a>
+ <a href="https://discord.gg/PAFb8B9KPp">Discord</a>・>Reviews</a>
 </p>
 
 
