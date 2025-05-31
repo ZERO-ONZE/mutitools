@@ -2,19 +2,15 @@
 <h1 align="center">Multi-Tools</h1>
 
 <p align="center">
-   <a href="https://t.me/redtigersupport">Telegram</a> ・ <a href="discord.gg/PAFb8B9KPp">Website</a> ・ <a href="https://www.trustpilot.com/review/redtiger.shop">Reviews</a>
+ <a href="discord.gg/PAFb8B9KPp">Website</a>・>Reviews</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/v/release/fluzyteck/RedTiger-Tools?label=Version&color=a80505">
-  <img src="https://img.shields.io/github/stars/fluzyteck/RedTiger-tools?style=flat&label=Stars&color=a80505">
-  <img src="https://img.shields.io/github/repo-size/fluzyteck/RedTiger-Tools?label=Size&color=a80505">
-  <img src="https://img.shields.io/github/languages/top/fluzyteck/RedTiger-Tools?color=a80505">
+
 </p>
 
 <p>
   
-  - Developed in <strong>Python</strong>, by <a href="https://redtiger.shop/loxy0dev">Loxy0dev</a><br>
+  - Developed in <strong>Python</strong>, by <a href="discord.gg/PAFb8B9KPp">ZERO-ONZE</a><br>
   - Tool in <strong>English</strong>.<br>
   - Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>
   - <strong>No malware</strong> or <strong>backdoor</strong>.<br>
