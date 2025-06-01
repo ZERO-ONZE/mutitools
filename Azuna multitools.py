@@ -202,8 +202,8 @@ option_next_txt = option_next + f" {red}[{white}N{red}]{white}"
 option_site_txt = f"{red}[{white}S{red}]{white} " + option_site
 option_info_txt =  f"{red}[{white}I{red}]{white} " + option_info
 
-menu1 = f""" ┌─ {option_info_txt}                                                                                               {option_next_txt} ─┐
- ├─ {option_site_txt} ┌─────────────────┐                        ┌───────┐                           ┌───────────┐            │
+menu1 = f""" ┌─                                                                                                {option_next_txt} ─┐
+ ├─          ┌─────────────────┐                        ┌───────┐                           ┌───────────┐    │
  └─┬─────────┤ Network Scanner ├─────────┬──────────────┤ Osint ├──────────────┬────────────┤ Utilities ├────────────┴─
    │         └─────────────────┘         │              └───────┘              │            └───────────┘
    ├─ {option_01_txt                    }├─ {option_11_txt                    }├─ {option_21_txt}
@@ -219,8 +219,8 @@ menu1 = f""" ┌─ {option_info_txt}                                           
 
 """
 
-menu2 = f""" ┌─ {option_info_txt}                                                                                                {option_next_txt} ─┐
- ├─ {option_site_txt}  ┌───────────────┐                         ┌──────┐                              ┌────────┐    {option_back_txt} ─┤
+menu2 = f""" ┌─                                                                                                         {option_next_txt} ─┐
+ ├─           ┌───────────────┐                         ┌──────┐                              ┌────────┐    {option_back_txt} ─┤
 ─┴─┬──────────┤ Virus Builder ├──────────┬──────────────┤ Paid ├───────────────┬──────────────┤ Roblox ├──────────────┴─
    │          └───────────────┘          │              └──────┘               │              └────────┘
    └─ {option_31_txt                    }├─ {option_32_txt                    }├─ {option_41_txt}
@@ -235,8 +235,8 @@ menu2 = f""" ┌─ {option_info_txt}                                           
 
 """
 
-menu3 = f""" ┌─ {option_info_txt}                                                                                                {option_back_txt} ─┐
- ├─ {option_site_txt}                                           ┌─────────┐                                                    │
+menu3 = f""" ┌─                                                                                                         {option_back_txt} ─┐
+ ├─                                                    ┌─────────┐                                                    │
 ─┴─┬───────────────────────────────────────────────────┤ Discord ├────────────────────────────────────────────────────┘
    │                                                   └─────────┘                       
    ├─ {option_51_txt                    }┌─ {option_61_txt                    }┌─ {option_71_txt}
@@ -286,7 +286,7 @@ def Menu():
    /_\  |_  / | | | \| | /_\  
   / _ \  / /| |_| | .` |/ _ \ 
  /_/ \_\/___|\___/|_|\_/_/ \_\
-                                          Azuna support : discord.gg/PAFb8B9KPp
+                                          Azuna support : discord.gg/azuna
 {menu}"""
    return banner, menu_number
 
